@@ -6,3 +6,5 @@ Once upon a time there was a brave knight who was able to save the lives of his 
 
 AWS Sagemaker Deploy link:
 https://wqmrjzarege7ylt.studio.ap-south-1.sagemaker.aws/jupyterlab/default/lab/tree/RTC%3ARTC%3Apoem-gpt.ipynb
+AWS End Point link:
+https://studio-d-to7pvrdfsw6n.studio.ap-south-1.sagemaker.aws/jupyterlab
