@@ -1,10 +1,34 @@
-Enter a starting line for your poem: Once upon a time there was a brave knight
+2024-05-07 21:12:14,492 - root - INFO - Model loaded successfully!
 Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
-2024-05-07 20:50:30,174 - root - INFO - Generated poem: Once upon a time there was a brave knight who was able to save the lives of his fellow knights.
-Your poem:
-Once upon a time there was a brave knight who was able to save the lives of his fellow knights.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+2024-05-07 21:12:23,401 - root - INFO - Generated poem: The sun sets on...
+
+The sun sets on...
+
+The sun sets on...
+
+The sun sets on...
+
+The sun sets on...
+
+The sun sets on...
+
+The sun sets on...
+
+The
 
 AWS Sagemaker Deploy link:
 https://wqmrjzarege7ylt.studio.ap-south-1.sagemaker.aws/jupyterlab/default/lab/tree/RTC%3ARTC%3Apoem-gpt.ipynb
+
+AWS Endpoint link:
+https://studio-d-to7pvrdfsw6n.studio.ap-south-1.sagemaker.aws/jupyterlab
 AWS End Point link:
 https://studio-d-to7pvrdfsw6n.studio.ap-south-1.sagemaker.aws/jupyterlab
