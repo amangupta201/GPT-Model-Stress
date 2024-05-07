@@ -1,0 +1,8 @@
+Enter a starting line for your poem: Once upon a time there was a brave knight
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+2024-05-07 20:50:30,174 - root - INFO - Generated poem: Once upon a time there was a brave knight who was able to save the lives of his fellow knights.
+Your poem:
+Once upon a time there was a brave knight who was able to save the lives of his fellow knights.
+
+AWS Sagemaker Deploy link:
+https://wqmrjzarege7ylt.studio.ap-south-1.sagemaker.aws/jupyterlab/default/lab/tree/RTC%3ARTC%3Apoem-gpt.ipynb
